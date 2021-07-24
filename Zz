@@ -5,21 +5,20 @@ http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6852
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 1. SCTV 1
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-204
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 2. SCTV 2
 http://gpc.my.id/vidio/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 3. SCTV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 3. SCTV 3
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar 1
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 5. Indosiar 2
-http://gpc.my.id/vidio/indosiar.m3u8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/45
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=nQOcEMQS
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
 http://gpc.my.id/usee/indosiar.m3u8
@@ -27,23 +26,23 @@ http://gpc.my.id/usee/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6678
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 7. RCTI 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 7. RCTI 1
 http://gpc.my.id/vidio/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 8. RCTI 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 8. RCTI 2
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 9. RCTI 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 9. RCTI 3
 https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 10. MNCTV 1
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 10. MNCTV 1
 http://gpc.my.id/vidio/mnc.m3u8
 
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 11. MNCTV 2
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 11. MNCTV 2
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
 
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 12. MNCTV 3
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 12. MNCTV 3
 https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 13. GTV 1
@@ -77,16 +76,16 @@ http://gpc.my.id/usee/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="Lokal",TransTV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/43
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 23. TRANS 7 1
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 23. TRANS 7 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 24. TRANS 7 2
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 24. TRANS 7 2
 http://gpc.my.id/vidio/trans7.m3u8
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 25. TRANS 7 3
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 25. TRANS 7 3
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 26. TRANS 7 (MotoGP)
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 26. TRANS 7 (MotoGP)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 27. Net.TV 1
@@ -107,14 +106,17 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 32. TVRI 3
 http://dituduhmaling.xyz/US33T4/tvri.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 33. RTV 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png" group-title="Lokal", 33. RTV 1
 http://gpc.my.id/vidio/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 34. RTV 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png" group-title="Lokal", 34. RTV 2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 35. RTV 3
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png" group-title="Lokal", 35. RTV 3
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png" group-title="Lokal", 34. RTV 2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="Lokal", 36. HBO
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
@@ -134,51 +136,51 @@ https://tv.aryakrida.com/live/hbo/RED.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal", 41.CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 42. Kompas TV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal", 42. Kompas TV 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 43. Kompas TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal", 43. Kompas TV 2
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 http://gpc.my.id/vidio/kompas-tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 44. Kompas TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal", 44. Kompas TV 3
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 45. TVONE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal", 45. TVONE 1
 http://gpc.my.id/ytlive/tvone.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 46. TVONE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal", 46. TVONE 2
 https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 47. TVONE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal", 47. TVONE 3
 https://iptv.kampung.xyz/panda/live/tvone_1.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 48. Metro TV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal", 48. Metro TV 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 49. Metro TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal", 49. Metro TV 2
 http://gpc.my.id/vidio/metro-tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 50. Metro TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal", 50. Metro TV 3
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=metro
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 51. ANTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", 51. ANTV 1
 https://tv.aryakrida.com/live/antv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 52. ANTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", 52. ANTV 2
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/31
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 53. ANTV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", 53. ANTV 3
 https://dl.dropbox.com/s/zdqqnjigken3jig/b630a001384603f.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 54. JTV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Lokal", 54. JTV 1
 http://cdn4.mbahnunungonline.net/m3u8/33a7e98c230ae2f.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 55. JTV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Lokal", 55. JTV 2
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 56. JTV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Lokal", 56. JTV 3
 http://gpc.my.id/usee/jtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="lokal", 57. SAKTI TV
@@ -202,22 +204,27 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="Lokal" 63. TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal", 64. BERITA SATU 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-CJOSwynLBPU/VMUih2r_7yI/AAAAAAAABm4/ZkjsZCeSauk/s1600/BeritaSatu%2BLogo.png" group-title="Lokal", 64. BERITA SATU 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/vidio/beritasatu.m3u8
 
-#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 65. JAK TV 1
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Lokal", 65. JAK TV 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
 
-#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 66. JAK TV 2
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Lokal", 66. JAK TV 2
 http://gpc.my.id/vidio/jaktv.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Lokal", 65. JAK TV 1
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", 67. Daai TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", 67. Daai TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal", 68. Mytv
 http://gpc.my.id/vidio/mytv.m3u8
-https://tv.mbed.cc/mytv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",69. Magna TV 1
 http://gpc.my.id/vidio/magna-tv.m3u8
@@ -234,16 +241,16 @@ http://gpc.my.id/vidio/ochannel.m3u8
 #EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/og-image-e7efa10e51acf77c67c3c5c46908bbb1091ab3a469b3ccd4c7ba9a26b52c8345.jpg" group-title="Lokal", 73. MUSICA VIDIO
 http://gpc.my.id/vidio/musica.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", 74. TV Champion 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9j8hl08k0pzbj6q/champion%20tv%201.png?dl=1" group-title="Sport", 74. TV Champion 1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", 75. TV Champion 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9j8hl08k0pzbj6q/champion%20tv%201.png?dl=1" group-title="Sport", 75. TV Champion 1
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", 76. TV Champion 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ywrnzjg11f0mc8p/champion%20tv%202.png?dl=1" group-title="Sport", 76. TV Champion 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", 77. TV Champion 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ywrnzjg11f0mc8p/champion%20tv%202.png?dl=1" group-title="Sport", 77. TV Champion 2
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", 78. TV Champion 3
@@ -427,5 +434,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="ShareExt@Usee", IMC 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUA
 http://163.172.50.58:8090/Calcio/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
+https://rosyid004.com/c:8080/champions1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
+http://mantul.org/m3u/usee-champion1.m3u8
