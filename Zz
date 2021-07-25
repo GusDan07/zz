@@ -18,7 +18,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 5. Indosiar 2
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=nQOcEMQS
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=205
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
 http://gpc.my.id/usee/indosiar.m3u8
