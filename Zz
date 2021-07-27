@@ -5,6 +5,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=6852
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-6852
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 1. SCTV 1
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
@@ -32,6 +33,7 @@ http://gpc.my.id/usee/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=6678
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-6678
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 7. RCTI 1
 http://gpc.my.id/vidio/rcti.m3u8
