@@ -7,6 +7,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6852
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 1. SCTV 1
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-204
+https://skuys.link/vidio/chunklist.m3u8?id=sctv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 2. SCTV 2
 http://gpc.my.id/vidio/sctv.m3u8
@@ -34,7 +35,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 9. RCTI 3
-https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
+https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 10. MNCTV 1
 http://gpc.my.id/vidio/mnc.m3u8
@@ -43,7 +44,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 12. MNCTV 3
-https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
+https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 13. GTV 1
 http://gpc.my.id/vidio/gtv.m3u8
@@ -53,7 +54,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 15. GTV 3
-https://goldenlivektv.com/Kang.Surya/Channel_Gtvmetube.m3u8
+https://cdn-livetv-studio.metube.id/globaltv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 16. iNEWS 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
@@ -62,7 +63,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://gpc.my.id/vidio/inews.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 18. iNEWS 3
-https://goldenlivektv.com/Kang.Surya/Channel_Inewsmetube.m3u8
+https://cdn-livetv-studio.metube.id/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="Lokal",TransTV 1
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-733
