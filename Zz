@@ -24,6 +24,7 @@ https://home-tv.web.id/RHS/280621mpd.m3u8?channel=indosiar
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 5. Indosiar 2
 http://gpc.my.id/vidio/indosiar.m3u8
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
 http://gpc.my.id/usee/indosiar.m3u8
@@ -38,6 +39,7 @@ http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 8. RCTI 2
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=665
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 9. RCTI 3
 https://cdn-livetv-studio.metube.id/rcti.m3u8
@@ -48,6 +50,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 11. MNCTV 2
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=870
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 12. MNCTV 3
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
@@ -58,7 +61,7 @@ http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 14. GTV 2
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=778
-
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-778
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 15. GTV 3
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
@@ -75,6 +78,7 @@ https://cdn-livetv-studio.metube.id/inewstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="Lokal",TransTV 1
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=733
+https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-733
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 21. TRANS TV 2
 http://gpc.my.id/vidio/trans-tv.m3u8
@@ -83,7 +87,7 @@ http://gpc.my.id/vidio/trans-tv.m3u8
 http://gpc.my.id/usee/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="Lokal",TransTV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/43
+https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-733
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 23. TRANS 7 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
@@ -96,6 +100,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 26. TRANS 7 (MotoGP)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
+https://home-tv.web.id/RHS/280621mpd.m3u8?channel=trans7
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 27. Net.TV 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
