@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="Lokal" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" aspect-ratio="16:9", Dunia Lain
+#EXTINF:0 group-title="Lokal" tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" aspect-ratio="16:9", Dunia Lain
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
@@ -18,16 +18,16 @@ http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 3. SCTV 3
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", 4. Indosiar 1
 #EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
 https://susuaja.my.id/m3u/aplay_vd.php?channel=205
 https://home-tv.web.id/RHS/280621mpd.m3u8?channel=indosiar
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 5. Indosiar 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", 5. Indosiar 2
 http://gpc.my.id/vidio/indosiar.m3u8
 https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-205
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", 6. Indosiar 3
 http://gpc.my.id/usee/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
