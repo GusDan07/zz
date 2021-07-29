@@ -6,8 +6,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6852
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 1. SCTV 1
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=204
 https://home-tv.web.id/RHS/280621mpd.m3u8?channel=sctv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", 2. SCTV 2
@@ -17,8 +15,6 @@ http://gpc.my.id/vidio/sctv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", 4. Indosiar 1
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=205
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", 5. Indosiar 2
@@ -29,16 +25,12 @@ https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-205
 http://gpc.my.id/usee/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=6678
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6678
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 7. RCTI 1
 http://gpc.my.id/vidio/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 8. RCTI 2
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=665
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal", 9. RCTI 3
@@ -48,8 +40,6 @@ https://cdn-livetv-studio.metube.id/rcti.m3u8
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 11. MNCTV 2
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=870
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal", 12. MNCTV 3
@@ -59,8 +49,6 @@ https://cdn-livetv-studio.metube.id/mnctv.m3u8
 http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Lokal", 14. GTV 2
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=778
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-778
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Lokal", 15. GTV 3
@@ -76,8 +64,6 @@ http://gpc.my.id/vidio/inews.m3u8
 https://cdn-livetv-studio.metube.id/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="Lokal",TransTV 1
-#EXTVLCOPT:http-user-agent=A-Tribute-to-Dedi_Purwanto
-https://susuaja.my.id/m3u/aplay_vd.php?channel=733
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-733
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="Lokal", 21. TRANS TV 2
@@ -96,7 +82,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://gpc.my.id/vidio/trans7.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 25. TRANS 7 3
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
+https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-734
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", 26. TRANS 7 (MotoGP)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
