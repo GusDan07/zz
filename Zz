@@ -168,7 +168,7 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Lokal", HBO Family
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+http://aputra.xyz/bacKUP/HBOfamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Lokal", HBO Signature
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
@@ -178,7 +178,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Lokal", CINEMAX
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+http://aputra.xyz/bacKUP/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal", Kompas TV 1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
