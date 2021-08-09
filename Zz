@@ -12,7 +12,7 @@ http://gpc.my.id/vidio/sctv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", SCTV 4
-http://dituduhmaling.xyz/US33T4/sctv.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:0 group-title="Lokal" tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" aspect-ratio="16:9", Dunia Lain
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
@@ -27,7 +27,7 @@ http://gpc.my.id/vidio/indosiar.m3u8
 http://gpc.my.id/usee/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal", Indosiar 4
-http://playlist.urfan.web.id/qwr9ew/s/s04/02.m3u8
+https://playlist.urfan.web.id/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Lokal", AXN 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
@@ -215,7 +215,7 @@ http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 https://tv.aryakrida.com/live/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", ANTV 2
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/31
+http://playlist.urfan.web.id/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", ANTV 3
 https://dl.dropbox.com/s/zdqqnjigken3jig/b630a001384603f.m3u8
