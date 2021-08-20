@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
-https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6852
+https://iptvid.cgflix.xyz/vidio/alquran.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", SCTV 1
 https://iptvid.cgflix.xyz/lokal/sctv.m3u8
