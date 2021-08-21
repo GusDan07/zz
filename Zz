@@ -1,27 +1,27 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png", FOX MOVIES
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png", FOX MOVIES
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png", FOX CRIME
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png", FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX ACTION MOVIES
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX ACTION MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg", FOX FAMILY MOVIES
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg", FOX FAMILY MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal", SCTV 1
@@ -35,7 +35,7 @@ http://rr2.dens.tv/s/s03/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sctv.png", SCTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sctv.png", SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:0 group-title="Lokal" tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" aspect-ratio="16:9", Dunia Lain
@@ -52,7 +52,7 @@ http://gpc.my.id/usee/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/indosiar.png", INDOSIAR
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/indosiar.png", INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Lokal", AXN 
@@ -70,7 +70,7 @@ https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", RCTI
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Lokal", Flik 
@@ -90,7 +90,7 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png", MNCTV
+#EXTINF:-1 group-title="Lokal" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Lokal", Galaxy
@@ -107,7 +107,7 @@ https://cdn-livetv-studio.metube.id/globaltv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png", GTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Lokal", Galaxy Premium 
@@ -141,7 +141,7 @@ http://gpc.my.id/vidio/trans-tv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="Lokal", TRANS TV 4
@@ -155,7 +155,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s34/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans7
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans7
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal", TRANS 7 2
@@ -172,7 +172,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/net-tv.png", NET TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/net-tv.png", NET TV
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="Lokal", Net.TV 2
@@ -195,7 +195,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.imgur.com/b7DOpCH.png", TVRI
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/b7DOpCH.png", TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpysPBMs/tvri.png" group-title="Lokal", TVRI 4
@@ -210,7 +210,7 @@ http://gpc.my.id/vidio/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/400px-Rajawali_Televisi.svg.png", RTV
+#EXTINF:-1 group-title="Lokal"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/400px-Rajawali_Televisi.svg.png", RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYtmTvLh/rtv.png" group-title="Lokal", RTV 3
@@ -245,7 +245,7 @@ http://aputra.xyz/bacKUP/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KOMPAS_TV_%282017%29.png/220px-KOMPAS_TV_%282017%29.png", Kompas TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KOMPAS_TV_%282017%29.png/220px-KOMPAS_TV_%282017%29.png", Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal", Kompas TV 2
@@ -259,7 +259,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal", TVONE 1
@@ -273,7 +273,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s105/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png", METRO TV
+#EXTINF:-1 group-title="Lokal" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png", METRO TV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal", Metro TV 1
@@ -287,7 +287,7 @@ http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/antv.png", ANTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/antv.png", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", ANTV 1
