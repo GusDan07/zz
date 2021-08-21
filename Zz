@@ -37,7 +37,7 @@ https://iptvid.cgflix.xyz/lokal/rcti.m3u8
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Lokal", Flik 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+https://iptvid.cgflix.xyz/Usee/movies/flik.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Lokal", Blue Ant Entertainment
 http://playlist.urfan.web.id/dr9445/h/h16/02.m3u8
@@ -52,7 +52,7 @@ https://iptvid.cgflix.xyz/lokal/mnctv.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Lokal", Galaxy
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
+https://iptvid.cgflix.xyz/Usee/movies/glx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Lokal", GTV 1
 http://gpc.my.id/vidio/gtv.m3u8
@@ -64,7 +64,7 @@ https://iptvid.cgflix.xyz/lokal/gtv.m3u8
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Lokal", Galaxy Premium 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
+https://iptvid.cgflix.xyz/Usee/movies/glxprem.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Lokal", Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/02.m3u8
@@ -92,6 +92,9 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/29
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="Lokal", TRANS TV 4
 http://playlist.urfan.web.id/qwr9ew/s/s05/02.m3u8
+
+#EXTINF:-1 tvg-id="https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" group-title="Lokal",Kix
+https://iptvid.cgflix.xyz/Usee/movies/kix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Lokal", Thrill
 http://playlist.urfan.web.id/qwr9ew/s/s34/02.m3u8
@@ -160,16 +163,16 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Lokal", HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+https://iptvid.cgflix.xyz/vidio/hbo.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Lokal", HBO Hits
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+https://iptvid.cgflix.xyz/vidio/hbo_hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Lokal", HBO Family
-http://aputra.xyz/bacKUP/HBOfamily.m3u8
+https://iptvid.cgflix.xyz/vidio/hbo_fam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Lokal", HBO Signature
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+https://iptvid.cgflix.xyz/vidio/hbo_sig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="Lokal", Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
