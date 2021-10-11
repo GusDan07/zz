@@ -10,7 +10,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩", LIGA INDONESIA
-https://ligabri.tsptv.my.id/ligabri/hls.mpd
+http://golive.yn.lt/live/afc.m3u8
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩", LIGA INDONESIA 2
 https://raw.githubusercontent.com/GusDan07/brazil/main/us1.m3u8
